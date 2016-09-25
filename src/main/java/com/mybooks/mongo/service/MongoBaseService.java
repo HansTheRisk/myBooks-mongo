@@ -1,8 +1,8 @@
-package mongo.service;
+package com.mybooks.mongo.service;
 
-import mongo.document.identifiable.Document;
-import mongo.document.identifiable.DocumentID;
-import mongo.repository.MongoBaseRepository;
+import com.mybooks.mongo.document.identifiable.Document;
+import com.mybooks.mongo.document.identifiable.DocumentID;
+import com.mybooks.mongo.repository.MongoBaseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
 public class MongoBaseService<T extends Document>

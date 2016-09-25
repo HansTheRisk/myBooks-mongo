@@ -1,7 +1,7 @@
-package mongo.service;
+package com.mybooks.mongo.service;
 
-import mongo.document.universallyIdentifiable.UniversallyIdentifiableDocument;
-import mongo.repository.MongoUniversallyIdentifiableRepository;
+import com.mybooks.mongo.document.universallyIdentifiable.UniversallyIdentifiableDocument;
+import com.mybooks.mongo.repository.MongoUniversallyIdentifiableRepository;
 
 public class MongoUniversallyIdentifiableService<T extends UniversallyIdentifiableDocument> extends MongoBaseService<T>
 {

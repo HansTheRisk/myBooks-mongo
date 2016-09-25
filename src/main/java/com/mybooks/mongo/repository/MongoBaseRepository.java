@@ -1,7 +1,7 @@
-package mongo.repository;
+package com.mybooks.mongo.repository;
 
-import mongo.document.identifiable.Document;
-import mongo.document.identifiable.DocumentID;
+import com.mybooks.mongo.document.identifiable.Document;
+import com.mybooks.mongo.document.identifiable.DocumentID;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.repository.NoRepositoryBean;
 

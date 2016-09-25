@@ -1,4 +1,4 @@
-package mongo.document.identifiable;
+package com.mybooks.mongo.document.identifiable;
 
 import org.springframework.data.mongodb.core.mapping.Field;
 

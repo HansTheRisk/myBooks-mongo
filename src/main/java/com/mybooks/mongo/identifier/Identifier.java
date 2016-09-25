@@ -1,4 +1,4 @@
-package mongo.identifier;
+package com.mybooks.mongo.identifier;
 
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;

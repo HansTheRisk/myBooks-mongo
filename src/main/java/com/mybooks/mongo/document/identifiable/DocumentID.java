@@ -1,6 +1,6 @@
-package mongo.document.identifiable;
+package com.mybooks.mongo.document.identifiable;
 
-import mongo.identifier.Identifier;
+import com.mybooks.mongo.identifier.Identifier;
 
 public class DocumentID extends Identifier<Long>
 {

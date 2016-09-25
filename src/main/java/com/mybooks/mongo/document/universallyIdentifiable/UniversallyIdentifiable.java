@@ -1,6 +1,6 @@
-package mongo.document.universallyIdentifiable;
+package com.mybooks.mongo.document.universallyIdentifiable;
 
-import mongo.document.identifiable.Identifiable;
+import com.mybooks.mongo.document.identifiable.Identifiable;
 
 public interface UniversallyIdentifiable extends Identifiable
 {

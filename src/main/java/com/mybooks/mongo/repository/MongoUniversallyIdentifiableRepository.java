@@ -1,6 +1,6 @@
-package mongo.repository;
+package com.mybooks.mongo.repository;
 
-import mongo.document.universallyIdentifiable.UniversallyIdentifiableDocument;
+import com.mybooks.mongo.document.universallyIdentifiable.UniversallyIdentifiableDocument;
 import org.springframework.data.repository.NoRepositoryBean;
 
 @NoRepositoryBean

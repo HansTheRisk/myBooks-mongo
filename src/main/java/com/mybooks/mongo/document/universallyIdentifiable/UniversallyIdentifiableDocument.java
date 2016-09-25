@@ -1,6 +1,6 @@
-package mongo.document.universallyIdentifiable;
+package com.mybooks.mongo.document.universallyIdentifiable;
 
-import mongo.document.identifiable.Document;
+import com.mybooks.mongo.document.identifiable.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
 
 public abstract class UniversallyIdentifiableDocument extends Document implements UniversallyIdentifiable
