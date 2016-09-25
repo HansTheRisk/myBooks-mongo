@@ -1,0 +1,10 @@
+/home/Projects/mybooks-mongo/src/main/java/mongo/service/MongoUniversallyIdentifiableService.java
+/home/Projects/mybooks-mongo/src/main/java/mongo/document/identifiable/Document.java
+/home/Projects/mybooks-mongo/src/main/java/mongo/identifier/Identifier.java
+/home/Projects/mybooks-mongo/src/main/java/mongo/repository/MongoBaseRepository.java
+/home/Projects/mybooks-mongo/src/main/java/mongo/document/identifiable/DocumentID.java
+/home/Projects/mybooks-mongo/src/main/java/mongo/service/MongoBaseService.java
+/home/Projects/mybooks-mongo/src/main/java/mongo/repository/MongoUniversallyIdentifiableRepository.java
+/home/Projects/mybooks-mongo/src/main/java/mongo/document/universallyIdentifiable/UniversallyIdentifiableDocument.java
+/home/Projects/mybooks-mongo/src/main/java/mongo/document/identifiable/Identifiable.java
+/home/Projects/mybooks-mongo/src/main/java/mongo/document/universallyIdentifiable/UniversallyIdentifiable.java

@@ -1,0 +1,10 @@
+mongo/service/MongoBaseService.class
+mongo/identifier/Identifier.class
+mongo/document/universallyIdentifiable/UniversallyIdentifiableDocument.class
+mongo/document/identifiable/DocumentID.class
+mongo/document/identifiable/Identifiable.class
+mongo/document/identifiable/Document.class
+mongo/service/MongoUniversallyIdentifiableService.class
+mongo/repository/MongoUniversallyIdentifiableRepository.class
+mongo/document/universallyIdentifiable/UniversallyIdentifiable.class
+mongo/repository/MongoBaseRepository.class
