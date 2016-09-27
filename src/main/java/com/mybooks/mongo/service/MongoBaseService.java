@@ -7,7 +7,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 public class MongoBaseService<T extends Document>
 {
-    public T save(T object) {
+    public T findOne(DocumentID id)
+    {
+        return repository.findOne(id);
+    }
+
+    public T save(T object)
+    {
         object.setId(new DocumentID(repository.count() + 1));
         return repository.save(object);
     }
